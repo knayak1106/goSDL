@@ -87,6 +87,7 @@ Settings:
 	- JIRA_THRIDPARTY_FIELD : checklist custom field for SDL Third Party and External
 	- JIRA_LEGAL_FIELD : checklist custom field for SDL Legal & Policy
 	- JIRA_QA_FIELD : checklist custom field for SDL QA
+4. Create an IssueType 'SDL Checklist' and associate with your project IssueType Scheme. (https://support.atlassian.com/jira-cloud-administration/docs/associate-issue-types-with-projects/)
 
 
 ### Usage
